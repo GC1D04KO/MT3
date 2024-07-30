@@ -1,6 +1,7 @@
 #include <Novice.h>
 #include <corecrt_math.h>
-#include <corecrt_math_defines.h>
+#include <cassert>
+
 
 const char kWindowTitle[] = "GC2C_03_コウ_カイシン";
 
